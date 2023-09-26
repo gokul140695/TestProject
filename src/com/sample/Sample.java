@@ -6,7 +6,7 @@ public class Sample {
 		
 		System.out.println("gokul");
 		
-		System.out.println("ajith");
+		System.out.println("aj");
 		
 	}
 
